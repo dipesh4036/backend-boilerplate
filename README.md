@@ -59,7 +59,9 @@ Your API will be available at `http://localhost:3000`
 
 ## 📁 Project Structure
 
+```
 backend-boilerplate/
+├── backend/
 │   ├── src/
 │   │   ├── config/
 │   │   │   └── config.js           # Configuration settings
@@ -79,7 +81,9 @@ backend-boilerplate/
 │   │   └── server.js               # Express app setup
 │   ├── .env                        # Environment variables
 │   ├── .env.example                # Environment template
-|    └── package.json
+│   └── package.json
+```
+
 
 ## 🔐 Security Features
 
